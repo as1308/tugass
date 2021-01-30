@@ -1,0 +1,7 @@
+{
+  "name": "rsapp-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
